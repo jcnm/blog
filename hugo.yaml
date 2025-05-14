@@ -194,7 +194,7 @@ params:
     hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/jcnm/blog/content"
+    URL: "https://github.com/jcnm/blog/tree/main/content"
     Text: "✍️" # edit text
     appendFilePath: true # to append file path to Edit link
 
