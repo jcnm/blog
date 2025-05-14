@@ -1,0 +1,45 @@
+
+en: 
+  contentDir: content/en
+  languageCode: en-US
+  languageName: 🇬🇧 English
+  weight: 1
+
+  params:
+    profileMode:     # profile-mode
+      enabled: true # needs to be explicitly set
+      title: "@jcnm"
+      subtitle: "Where I share my thoughts, experimentations and ideas, nothing more."
+      imageUrl: "/jcnm/profile720x720.png" # path to image
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: jcnm profile image
+      buttons:
+        - name: Posts
+          url: posts
+        - name: Tags
+          url: tags
+        - name: Search
+          url: search
+fr: 
+  contentDir: content/fr
+  languageCode: fr-FR
+  languageName: 🇫🇷 Français
+  weight: 2
+
+  params:
+    profileMode:     # profile-mode
+      enabled: true # needs to be explicitly set
+      title: "@jcnm"
+      subtitle: "Où je partage mes pensées, expériences et idées, rien de plus."
+      imageUrl: "/jcnm/profile720x720.png" # path to image
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: image de profil de jcnm
+      buttons:
+        - name: Catégories
+          url: categories
+        - name: Tags
+          url: tags
+        - name: Rechercher
+          url: search

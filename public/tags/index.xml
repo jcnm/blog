@@ -2,16 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on JCNM</title>
-    <link>https://sylorion.com/jcnm/tags/</link>
+    <link>http://localhost:52414/jcnm/tags/</link>
     <description>Recent content in Tags on JCNM</description>
-    <image>
-      <title>JCNM</title>
-      <url>https://sylorion.com/jcnm/images/profile.png</url>
-      <link>https://sylorion.com/jcnm/images/profile.png</link>
-    </image>
     <generator>Hugo -- 0.147.2</generator>
-    <language>en-US</language>
+    <language>fr-FR</language>
     <copyright>JCNM 2025</copyright>
-    <atom:link href="https://sylorion.com/jcnm/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52414/jcnm/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

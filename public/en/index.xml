@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JCNM</title>
+    <link>http://localhost:52414/jcnm/en/</link>
+    <description>Recent content on JCNM</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-US</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Wed, 14 May 2025 07:20:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:52414/jcnm/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:52414/jcnm/en/about/</link>
+      <pubDate>Wed, 14 May 2025 07:20:41 +0200</pubDate>
+      <guid>http://localhost:52414/jcnm/en/about/</guid>
+      <description>&lt;p&gt;Software architect and Team Lead passionate about technical innovation, I&amp;rsquo;ve been navigating the software development universe for over a decade, from embedded systems to complex architectures.&lt;/p&gt;
+&lt;p&gt;My journey has taken me from research laboratories to demanding industrial environments, where I&amp;rsquo;ve developed sharp expertise in designing architectures that comply with the strictest standards—particularly in the defense, banking, and energy sectors.&lt;/p&gt;
+&lt;h2 id=&#34;my-expertise&#34;&gt;My Expertise&lt;/h2&gt;
+&lt;p&gt;As a specialist in complex systems, I excel in the technical leadership of ambitious projects. My approach combines methodological rigor and creativity, whether:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:52414/jcnm/en/contact/</link>
+      <pubDate>Tue, 13 May 2025 20:06:31 +0200</pubDate>
+      <guid>http://localhost:52414/jcnm/en/contact/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSd3qVp080lQpBNxKzW7VvCnQT8G48s30DVNUjRHOFndcUoqPA/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;874&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34;&gt;Loading…&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>

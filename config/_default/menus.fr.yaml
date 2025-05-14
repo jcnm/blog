@@ -1,0 +1,26 @@
+
+main:
+  - identifier: posts
+    name: Postes
+    url: posts
+    weight: 1
+  - identifier: categories
+    name: Catégories
+    url: categories
+    weight: 10
+  - identifier: tags
+    name: Tags
+    url: tags
+    weight: 20
+  - identifier: contact
+    name: Contacter
+    url: contact
+    weight: 30
+  - identifier: about
+    name: À propos
+    url: a-propos
+    weight: 35
+  - identifier: github
+    name: GitHub
+    url: https://github.com/jcnm/blog
+    weight: 40
