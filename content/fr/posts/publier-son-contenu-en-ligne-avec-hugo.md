@@ -1,7 +1,7 @@
 ---
 date: '2025-05-14T16:18:02+02:00'
 draft: false
-title: 'Edition de contenu en ligne avec Hugo'
+title: 'Rédaction de contenu en ligne avec Hugo'
 tags: ["hugo", "web", "blog", "static", "exploration"]
 categories: ["Tutoriel", "Adoption"]
 series: ["Hugo Introduction"]
@@ -9,7 +9,7 @@ ShowPostNavLinks: true
 cover:
   image: "/jcnm/site-static-hugo.png"
   alt: "Hugo le moteur generateur de site"
-  caption: "Edition de contenu station en ligne avec Hugo"
+  caption: "Edition de contenu static avec Hugo"
 ---
 
 ## Qu'est-ce que Hugo
