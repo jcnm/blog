@@ -2,8 +2,8 @@
 date: '2025-05-14T16:18:02+02:00'
 draft: false
 title: 'Publier Son Contenu en Ligne Avec Hugo Partie 1'
-tags: ["hugo", "web", "blog", "static"]
-categories: ["Tutoriel", "contenu"]
+tags: ["hugo", "web", "blog", "static", "exploration"]
+categories: ["Tutoriel", "contenu", "adoption"]
 ---
 
 ## Comprendre les générateurs de sites statiques
@@ -112,4 +112,4 @@ Dans l'écosystème foisonnant des GSS, Hugo se positionne comme une solution é
 
 Mais en toute honeteté le choix pour Hugo avec le thème PaperMod est suite à un tirage au sort le but est simple mettre en place un déploiement automatisé sur OVH, de contenu écrit avec markdown.
 
-Nous verrons dans un article à venir comment configurer Hugo et intégrer une pipeline de déploiement automatisé sur OVH hebergement perso (donc pas de SSH du pure SFTP 😅)
+Nous verrons dans un article à venir comment configurer Hugo et intégrer une pipeline de déploiement automatisé sur OVH hebergement perso (donc pas de SSH du pure SFTP 😅).
