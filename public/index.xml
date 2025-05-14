@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JCNM</title>
-    <link>http://localhost:1313/jcnm/</link>
+    <link>https://sylorion.com/jcnm/</link>
     <description>Recent content on JCNM</description>
     <image>
       <title>JCNM</title>
-      <url>http://localhost:1313/jcnm/images/profile.png</url>
-      <link>http://localhost:1313/jcnm/images/profile.png</link>
+      <url>https://sylorion.com/jcnm/images/profile.png</url>
+      <link>https://sylorion.com/jcnm/images/profile.png</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>fr-FR</language>
     <copyright>JCNM 2025</copyright>
     <lastBuildDate>Wed, 14 May 2025 16:18:02 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/jcnm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sylorion.com/jcnm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publier Son Contenu en Ligne Avec Hugo Partie 1</title>
-      <link>http://localhost:1313/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</link>
+      <link>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</link>
       <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
-      <guid>http://localhost:1313/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</guid>
+      <guid>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</guid>
       <description>&lt;h2 id=&#34;comprendre-les-générateurs-de-sites-statiques&#34;&gt;Comprendre les générateurs de sites statiques&lt;/h2&gt;
 &lt;p&gt;Les générateurs de sites statiques (GSS) représentent une approche fondamentalement différente de la création web par rapport aux systèmes de gestion de contenu (CMS) dynamiques. Au lieu d&amp;rsquo;assembler les pages à la volée lors de chaque visite, un GSS pré-compile l&amp;rsquo;intégralité du site en fichiers HTML, CSS et JavaScript statiques qui peuvent être servis directement, sans traitement serveur supplémentaire.&lt;/p&gt;
 &lt;p&gt;Cette architecture présente plusieurs avantages inhérents :&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Propos</title>
-      <link>http://localhost:1313/jcnm/a-propos/</link>
+      <link>https://sylorion.com/jcnm/a-propos/</link>
       <pubDate>Wed, 14 May 2025 07:20:45 +0200</pubDate>
-      <guid>http://localhost:1313/jcnm/a-propos/</guid>
+      <guid>https://sylorion.com/jcnm/a-propos/</guid>
       <description>&lt;p&gt;Architecte logiciel et Team Lead passionné par l&amp;rsquo;innovation technique, je navigue depuis plus d&amp;rsquo;une décennie dans l&amp;rsquo;univers du développement logiciel, des systèmes embarqués jusqu&amp;rsquo;aux architectures complexes.
 Mon parcours m&amp;rsquo;a conduit des laboratoires de recherche aux environnements industriels exigeants, où j&amp;rsquo;ai développé une expertise pointue dans la conception d&amp;rsquo;architectures conformes aux normes les plus strictes - notamment dans les secteurs de la défense, bancaire et énergétique.&lt;/p&gt;
 &lt;h2 id=&#34;mon-expertise&#34;&gt;Mon expertise&lt;/h2&gt;
@@ -35,9 +35,9 @@ Mon parcours m&amp;rsquo;a conduit des laboratoires de recherche aux environneme
     </item>
     <item>
       <title>Contacter</title>
-      <link>http://localhost:1313/jcnm/contact/</link>
+      <link>https://sylorion.com/jcnm/contact/</link>
       <pubDate>Wed, 14 May 2025 07:01:22 +0200</pubDate>
-      <guid>http://localhost:1313/jcnm/contact/</guid>
+      <guid>https://sylorion.com/jcnm/contact/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdVK-hz3_OA6H0Sbl9Kt-e-P-TQ72MyhNa1R_euJaGLlz44bg/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;980&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34;&gt;Chargement…&lt;/iframe&gt;</description>
     </item>
   </channel>

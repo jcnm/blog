@@ -2,80 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jcnm/en/about/</loc>
+    <loc>https://sylorion.com/jcnm/en/about/</loc>
     <lastmod>2025-05-14T07:20:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/jcnm/a-propos/"
+                href="https://sylorion.com/jcnm/a-propos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/jcnm/en/about/"
+                href="https://sylorion.com/jcnm/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jcnm/en/</loc>
+    <loc>https://sylorion.com/jcnm/en/</loc>
     <lastmod>2025-05-14T07:20:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/jcnm/"
+                href="https://sylorion.com/jcnm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/jcnm/en/"
+                href="https://sylorion.com/jcnm/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jcnm/en/search/</loc>
-    <lastmod>2025-05-14T06:54:49+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/jcnm/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/jcnm/en/search/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/jcnm/en/contact/</loc>
+    <loc>https://sylorion.com/jcnm/en/contact/</loc>
     <lastmod>2025-05-13T20:06:31+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/jcnm/contact/"
+                href="https://sylorion.com/jcnm/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/jcnm/en/contact/"
+                href="https://sylorion.com/jcnm/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jcnm/en/categories/</loc>
+    <loc>https://sylorion.com/jcnm/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/jcnm/categories/"
+                href="https://sylorion.com/jcnm/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/jcnm/en/categories/"
+                href="https://sylorion.com/jcnm/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jcnm/en/tags/</loc>
+    <loc>https://sylorion.com/jcnm/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/jcnm/tags/"
+                href="https://sylorion.com/jcnm/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/jcnm/en/tags/"
+                href="https://sylorion.com/jcnm/en/tags/"
                 />
   </url>
 </urlset>
