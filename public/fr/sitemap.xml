@@ -21,9 +21,6 @@
                 href="https://sylorion.com/jcnm/categories/"
                 />
   </url><url>
-    <loc>https://sylorion.com/jcnm/categories/contenu/</loc>
-    <lastmod>2025-05-14T16:18:02+02:00</lastmod>
-  </url><url>
     <loc>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</loc>
     <lastmod>2025-05-14T16:18:02+02:00</lastmod>
   </url><url>
@@ -83,6 +80,54 @@
                 hreflang="fr-FR"
                 href="https://sylorion.com/jcnm/a-propos/"
                 />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/consultant/</loc>
+    <lastmod>2025-05-14T07:20:45+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/detail/</loc>
+    <lastmod>2025-05-14T07:20:45+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/detail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/detail/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/expertise/</loc>
+    <lastmod>2025-05-14T07:20:45+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/expertise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/expertise/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/ing%C3%A9nieur/</loc>
+    <lastmod>2025-05-14T07:20:45+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/categories/introduction/</loc>
+    <lastmod>2025-05-14T07:20:45+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/categories/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/categories/introduction/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/profil/</loc>
+    <lastmod>2025-05-14T07:20:45+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/contact/</loc>
     <lastmod>2025-05-14T07:01:22+02:00</lastmod>

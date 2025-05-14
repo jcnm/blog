@@ -4,13 +4,19 @@ draft: false
 title: 'Edition de contenu en ligne avec Hugo'
 tags: ["hugo", "web", "blog", "static", "exploration"]
 categories: ["Tutoriel", "Adoption"]
+series: ["Hugo Introduction"]
+ShowPostNavLinks: true
+cover:
+  image: "/jcnm/site-static-hugo.png"
+  alt: "Hugo le moteur generateur de site"
+  caption: "Edition de contenu station en ligne avec Hugo"
 ---
 
 ## Qu'est-ce que Hugo
 
 Les générateurs de sites statiques (GSS) représentent une approche fondamentalement différente de la création web par rapport aux systèmes de gestion de contenu (CMS) dynamiques. Au lieu d'assembler les pages à la volée lors de chaque visite, un GSS pré-compile l'intégralité du site en fichiers HTML, CSS et JavaScript statiques qui peuvent être servis directement, sans traitement serveur supplémentaire.
 
-Cette architecture présente plusieurs avantages inhérents :
+Cette architecture présente plusieurs avantages inhérents :speak_no_evil: :
 - **Performance** : Les pages statiques se chargent instantanément
 - **Sécurité** : L'absence de base de données et de code exécuté dynamiquement élimine de nombreux vecteurs d'attaque
 - **Évolutivité** : Des fichiers statiques peuvent être facilement mis en cache et distribués via CDN
@@ -22,7 +28,7 @@ Le marché des GSS s'est considérablement développé ces dernières années, c
 
 | GSS             | Langage          | Année | Points forts                                    | Limitations                              |
 | --------------- | ---------------- | ----- | ----------------------------------------------- | ---------------------------------------- |
-| **Hugo**        | Go               | 2013  | Vitesse extrême, fonctionnalités natives riches | Langage de template spécifique           |
+| **[Hugo](gohugo.io)**        | Go               | 2013  | Vitesse extrême, fonctionnalités natives riches | Langage de template spécifique           |
 | Jekyll          | Ruby             | 2008  | Intégration GitHub, précurseur                  | Lenteur sur gros sites, dépendances Ruby |
 | Gatsby          | JavaScript/React | 2015  | Écosystème React, GraphQL intégré               | Complexité, builds lourds                |
 | Eleventy (11ty) | JavaScript       | 2018  | Flexibilité, minimalisme                        | Moins de fonctionnalités natives         |
