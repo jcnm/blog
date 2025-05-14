@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sylorion.com/jcnm/categories/adoption/</loc>
+    <lastmod>2025-05-14T16:18:02+02:00</lastmod>
+  </url><url>
     <loc>https://sylorion.com/jcnm/tags/blog/</loc>
     <lastmod>2025-05-14T16:18:02+02:00</lastmod>
   </url><url>
@@ -19,6 +22,9 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/categories/contenu/</loc>
+    <lastmod>2025-05-14T16:18:02+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/exploration/</loc>
     <lastmod>2025-05-14T16:18:02+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/hugo/</loc>

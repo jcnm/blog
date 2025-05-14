@@ -1,12 +1,12 @@
 ---
 date: '2025-05-14T16:18:02+02:00'
 draft: false
-title: 'Publier Son Contenu en Ligne Avec Hugo Partie 1'
+title: 'Edition de contenu en ligne avec Hugo'
 tags: ["hugo", "web", "blog", "static", "exploration"]
 categories: ["Tutoriel", "contenu", "adoption"]
 ---
 
-## Comprendre les générateurs de sites statiques
+## Qu'est-ce que Hugo
 
 Les générateurs de sites statiques (GSS) représentent une approche fondamentalement différente de la création web par rapport aux systèmes de gestion de contenu (CMS) dynamiques. Au lieu d'assembler les pages à la volée lors de chaque visite, un GSS pré-compile l'intégralité du site en fichiers HTML, CSS et JavaScript statiques qui peuvent être servis directement, sans traitement serveur supplémentaire.
 
@@ -18,7 +18,7 @@ Cette architecture présente plusieurs avantages inhérents :
 
 ## L'écosystème des générateurs de sites statiques
 
-Le marché des GSS s'est considérablement développé ces dernières années, chacun apportant sa philosophie et ses spécificités :
+Le marché des GSS s'est considérablement développé ces dernières années, chacun apportant sa philosophie et ses spécificités:
 
 | GSS             | Langage          | Année | Points forts                                    | Limitations                              |
 | --------------- | ---------------- | ----- | ----------------------------------------------- | ---------------------------------------- |
@@ -28,6 +28,17 @@ Le marché des GSS s'est considérablement développé ces dernières années, c
 | Eleventy (11ty) | JavaScript       | 2018  | Flexibilité, minimalisme                        | Moins de fonctionnalités natives         |
 | Next.js         | JavaScript/React | 2016  | Hybride statique/dynamique                      | Complexité, orienté application          |
 | Astro           | JavaScript       | 2021  | Multi-framework, îlots interactifs              | Encore jeune mais sexy                   |
+
+### Et comparée aux autres solutions non GSS
+
+Le marché des CMS plus vieux et prédominant se fait bouffer par les plate-forme No-Code.
+
+| Solution                 | Complexité       | Vitesse     | Maintenance | Coût       | Sécurité   |
+| ------------------------ | ---------------- | ----------- | ----------- | ---------- | ---------- |
+| Hugo                     | Faible           | Très rapide | Minimale    | Gratuit    | Excellente |
+| WordPress                | Moyenne à élevée | Modérée     | Régulière   | Variable   | Vulnérable |
+| Wix/Squarespace          | Faible           | Modérée     | Faible      | Abonnement | Bonne      |
+| Développement sur mesure | Très élevée      | Variable    | Élevée      | Élevé      | Variable   |
 
 ## Hugo : origines et architecture technique
 
@@ -86,15 +97,21 @@ Les nouveaux entrants comme 11ty ou Astro apportent de nouvelles approches :
 - **Performance** : Hugo reste généralement plus rapide pour la génération
 - **Flexibilité de templating** : 11ty et Astro offrent plus de choix de langages de templates
 
-## Pourquoi choisir Hugo en 2025?
+## Contenu dense sans complexité technique?
 
-Après cette analyse comparative, Hugo se distingue par plusieurs facteurs clés :
+Après cette analyse comparative, Hugo se distingue par plusieurs facteurs clés et permet de produire rapidement un contenu riche et structuré sans vous perdre dans les méandres du développement web. Cette approche offre plusieurs avantages clés :
 
 1. **Rapidité inégalée** : Les temps de build restent imbattables, ce qui est crucial lors de la mise à jour fréquente de contenu
 2. **Simplicité d'installation** : Un simple binaire sans dépendances complexes
 3. **Fonctionnalités natives complètes** : Multilinguisme, taxonomies, traitement d'images sans plugins
 4. **Stabilité** : Plus de 10 ans d'existence avec une philosophie cohérente
 5. **Faible empreinte technique** : Ne nécessite pas de maîtriser JavaScript, React ou d'autres frameworks
+6. **Focus sur le contenu** : Écrivez en Markdown et concentrez-vous sur la qualité de vos textes
+7. **Structure cohérente** : Organisation logique du contenu grâce aux taxonomies (catégories, tags)
+8. **Versionnable** : Tout votre site peut être mis sous contrôle de version avec Git
+9. **Portable** : Changez d'hébergeur facilement, votre site n'a pas de dépendances complexes
+10. **Évolutif** : Ajoutez du contenu sans craindre une dégradation des performances
+
 
 ### Cas d'usage idéaux pour Hugo
 
