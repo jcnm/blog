@@ -15,13 +15,21 @@
     <lastBuildDate>Wed, 14 May 2025 16:18:02 +0200</lastBuildDate>
     <atom:link href="https://sylorion.com/jcnm/categories/contenu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publier Son Contenu en Ligne Avec Hugo Partie 1</title>
+      <title>Edition de contenu en ligne avec Hugo</title>
       <link>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</link>
       <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
       <guid>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</guid>
-      <description>&lt;h2 id=&#34;comprendre-les-générateurs-de-sites-statiques&#34;&gt;Comprendre les générateurs de sites statiques&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;quest-ce-que-hugo&#34;&gt;Qu&amp;rsquo;est-ce que Hugo&lt;/h2&gt;
 &lt;p&gt;Les générateurs de sites statiques (GSS) représentent une approche fondamentalement différente de la création web par rapport aux systèmes de gestion de contenu (CMS) dynamiques. Au lieu d&amp;rsquo;assembler les pages à la volée lors de chaque visite, un GSS pré-compile l&amp;rsquo;intégralité du site en fichiers HTML, CSS et JavaScript statiques qui peuvent être servis directement, sans traitement serveur supplémentaire.&lt;/p&gt;
-&lt;p&gt;Cette architecture présente plusieurs avantages inhérents :&lt;/p&gt;</description>
+&lt;p&gt;Cette architecture présente plusieurs avantages inhérents :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt; : Les pages statiques se chargent instantanément&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sécurité&lt;/strong&gt; : L&amp;rsquo;absence de base de données et de code exécuté dynamiquement élimine de nombreux vecteurs d&amp;rsquo;attaque&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Évolutivité&lt;/strong&gt; : Des fichiers statiques peuvent être facilement mis en cache et distribués via CDN&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicité d&amp;rsquo;hébergement&lt;/strong&gt; : N&amp;rsquo;importe quel serveur web peut héberger ces fichiers - &lt;em&gt;the best argument&lt;/em&gt; pour moi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lécosystème-des-générateurs-de-sites-statiques&#34;&gt;L&amp;rsquo;écosystème des générateurs de sites statiques&lt;/h2&gt;
+&lt;p&gt;Le marché des GSS s&amp;rsquo;est considérablement développé ces dernières années, chacun apportant sa philosophie et ses spécificités:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
