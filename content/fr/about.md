@@ -4,6 +4,8 @@ draft: false
 title: 'A Propos'
 slug: a-propos 
 translationKey: about
+tags: ["detail", "profil", "expertise", "consultant", "ingénieur"]
+categories: ["Introduction"]
 ---
 
 Architecte logiciel et Team Lead passionné par l'innovation technique, je navigue depuis plus d'une décennie dans l'univers du développement logiciel, des systèmes embarqués jusqu'aux architectures complexes.

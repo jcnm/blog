@@ -4,6 +4,8 @@ draft: false
 title: 'About'
 slug: about 
 translationKey: about
+tags: ["detail", "profile", "expertise", "consulting", "engigneer"]
+categories: ["Introduction"]
 ---
 
 Software architect and Team Lead passionate about technical innovation, I've been navigating the software development universe for over a decade, from embedded systems to complex architectures.

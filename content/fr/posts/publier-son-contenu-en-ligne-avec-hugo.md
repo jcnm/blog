@@ -3,7 +3,7 @@ date: '2025-05-14T16:18:02+02:00'
 draft: false
 title: 'Edition de contenu en ligne avec Hugo'
 tags: ["hugo", "web", "blog", "static", "exploration"]
-categories: ["Tutoriel", "contenu", "adoption"]
+categories: ["Tutoriel", "Adoption"]
 ---
 
 ## Qu'est-ce que Hugo
