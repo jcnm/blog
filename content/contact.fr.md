@@ -13,5 +13,5 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
 {{<rawhtml>}}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVK-hz3_OA6H0Sbl9Kt-e-P-TQ72MyhNa1R_euJaGLlz44bg/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVK-hz3_OA6H0Sbl9Kt-e-P-TQ72MyhNa1R_euJaGLlz44bg/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Chargement…</iframe>
 {{</rawhtml>}}
