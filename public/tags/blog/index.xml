@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on JCNM</title>
+    <link>http://localhost:1313/jcnm/tags/blog/</link>
+    <description>Recent content in Blog on JCNM</description>
+    <image>
+      <title>JCNM</title>
+      <url>http://localhost:1313/jcnm/images/profile.png</url>
+      <link>http://localhost:1313/jcnm/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>fr-FR</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Wed, 14 May 2025 16:18:02 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/jcnm/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publier Son Contenu en Ligne Avec Hugo Partie 1</title>
+      <link>http://localhost:1313/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</link>
+      <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
+      <guid>http://localhost:1313/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</guid>
+      <description>&lt;h2 id=&#34;comprendre-les-générateurs-de-sites-statiques&#34;&gt;Comprendre les générateurs de sites statiques&lt;/h2&gt;
+&lt;p&gt;Les générateurs de sites statiques (GSS) représentent une approche fondamentalement différente de la création web par rapport aux systèmes de gestion de contenu (CMS) dynamiques. Au lieu d&amp;rsquo;assembler les pages à la volée lors de chaque visite, un GSS pré-compile l&amp;rsquo;intégralité du site en fichiers HTML, CSS et JavaScript statiques qui peuvent être servis directement, sans traitement serveur supplémentaire.&lt;/p&gt;
+&lt;p&gt;Cette architecture présente plusieurs avantages inhérents :&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
