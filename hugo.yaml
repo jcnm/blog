@@ -23,7 +23,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-T88E0SY453
 
 minify:
   disableXML: true
@@ -101,14 +100,17 @@ params:
     - name: discord
       url: "https://discord.gg/sylorion"
 
-
+  services:
+    googleAnalytics:
+      id: G-T88E0SY453
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-T88E0SY453"
+      
+    # bing:
+    #   SiteVerificationTag: "XYZabc"
+    # yandex:
+    #   SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
