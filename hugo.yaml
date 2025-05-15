@@ -23,7 +23,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-
+googleAnalytics: G-T88E0SY453 
+googleAnalyticsDomain: sylorion.com
+googleAnalyticsSiteVerification: G-T88E0SY453
 minify:
   disableXML: true
   minifyOutput: true
