@@ -6,13 +6,13 @@ theme: ["PaperMod"]
 author: Jacques Charles NJANDA MBIADA
 contentDir: content
 publishDir: public
+baseURL: https://sylorion.com/jcnm/
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
-baseURL: https://sylorion.com/jcnm/
 
 languageCode: fr
 defaultContentLanguage: fr
