@@ -14,6 +14,7 @@ outputs:
     - JSON # necessary for search
 baseURL: https://sylorion.com/jcnm/
 
+languageCode: fr
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
 
@@ -22,7 +23,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-T88E0SY453
 
 minify:
   disableXML: true
