@@ -27,7 +27,7 @@ Le marché des GSS s'est considérablement développé ces dernières années, c
 
 | GSS             | Langage          | Année | Points forts                                    | Limitations                              |
 | --------------- | ---------------- | ----- | ----------------------------------------------- | ---------------------------------------- |
-| **[Hugo](gohugo.io)**        | Go               | 2013  | Vitesse extrême, fonctionnalités natives riches | Langage de template spécifique           |
+| **[Hugo](https://gohugo.io)**        | Go               | 2013  | Vitesse extrême, fonctionnalités natives riches | Langage de template spécifique           |
 | Jekyll          | Ruby             | 2008  | Intégration GitHub, précurseur                  | Lenteur sur gros sites, dépendances Ruby |
 | Gatsby          | JavaScript/React | 2015  | Écosystème React, GraphQL intégré               | Complexité, builds lourds                |
 | Eleventy (11ty) | JavaScript       | 2018  | Flexibilité, minimalisme                        | Moins de fonctionnalités natives         |

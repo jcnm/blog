@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sylorion.com/jcnm/en/</loc>
+    <lastmod>2025-05-16T18:52:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/posts/</loc>
+    <lastmod>2025-05-16T18:52:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/posts/"
+                />
+  </url><url>
     <loc>https://sylorion.com/jcnm/en/about/</loc>
     <lastmod>2025-05-14T07:20:41+02:00</lastmod>
     <xhtml:link
@@ -71,19 +97,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://sylorion.com/jcnm/en/categories/introduction/"
-                />
-  </url><url>
-    <loc>https://sylorion.com/jcnm/en/</loc>
-    <lastmod>2025-05-14T07:20:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://sylorion.com/jcnm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://sylorion.com/jcnm/en/"
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/en/tags/profile/</loc>
