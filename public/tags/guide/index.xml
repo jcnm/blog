@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guide on JCNM</title>
+    <link>https://sylorion.com/jcnm/tags/guide/</link>
+    <description>Recent content in Guide on JCNM</description>
+    <image>
+      <title>JCNM</title>
+      <url>https://sylorion.com/jcnm/images/profile.png</url>
+      <link>https://sylorion.com/jcnm/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>fr-FR</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Fri, 16 May 2025 10:49:46 +0200</lastBuildDate>
+    <atom:link href="https://sylorion.com/jcnm/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation de Hugo : Le Guide Complet Multiplateforme</title>
+      <link>https://sylorion.com/jcnm/posts/installation-gss-hugo-guide-complet-multiplateforme/</link>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/installation-gss-hugo-guide-complet-multiplateforme/</guid>
+      <description>&lt;p&gt;Maintenant que nous avons &lt;a href=&#34;https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo&#34;&gt;exploré les raisons d&amp;rsquo;utiliser un outil comme Hugo&lt;/a&gt;, passons à l&amp;rsquo;étape cruciale : son installation. Hugo est réputé pour sa simplicité d&amp;rsquo;installation. Il est distribué sous forme d&amp;rsquo;un unique fichier binaire exécutable, ce qui signifie qu&amp;rsquo;il n&amp;rsquo;y a généralement pas de dépendances complexes à gérer si vous utilisez les versions précompilées. Nous allons couvrir les méthodes d&amp;rsquo;installation les plus courantes pour MacOS, Windows et Linux, afin que vous puissiez démarrer rapidement, quel que soit votre environnement de travail.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

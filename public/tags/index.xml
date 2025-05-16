@@ -9,16 +9,51 @@
       <url>https://sylorion.com/jcnm/images/profile.png</url>
       <link>https://sylorion.com/jcnm/images/profile.png</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>fr-FR</language>
     <copyright>JCNM 2025</copyright>
-    <lastBuildDate>Wed, 14 May 2025 16:18:02 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 10:49:46 +0200</lastBuildDate>
     <atom:link href="https://sylorion.com/jcnm/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://sylorion.com/jcnm/tags/blog/</link>
-      <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
       <guid>https://sylorion.com/jcnm/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>https://sylorion.com/jcnm/tags/guide/</link>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://sylorion.com/jcnm/tags/hugo/</link>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>https://sylorion.com/jcnm/tags/installation/</link>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static</title>
+      <link>https://sylorion.com/jcnm/tags/static/</link>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/static/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>https://sylorion.com/jcnm/tags/web/</link>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/web/</guid>
       <description></description>
     </item>
     <item>
@@ -26,27 +61,6 @@
       <link>https://sylorion.com/jcnm/tags/exploration/</link>
       <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
       <guid>https://sylorion.com/jcnm/tags/exploration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://sylorion.com/jcnm/tags/hugo/</link>
-      <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
-      <guid>https://sylorion.com/jcnm/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Static</title>
-      <link>https://sylorion.com/jcnm/tags/static/</link>
-      <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
-      <guid>https://sylorion.com/jcnm/tags/static/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>https://sylorion.com/jcnm/tags/web/</link>
-      <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
-      <guid>https://sylorion.com/jcnm/tags/web/</guid>
       <description></description>
     </item>
     <item>

@@ -11,7 +11,7 @@ cover:
   alt: "Installation de Hugo le moteur generateur de site"
 ---
 
-Maintenant que nous avons (exploré les raisons d'utiliser un outil comme Hugo)[fr/posts/publier-son-contenu-en-ligne-avec-hugo], passons à l'étape cruciale : son installation. Hugo est réputé pour sa simplicité d'installation. Il est distribué sous forme d'un unique fichier binaire exécutable, ce qui signifie qu'il n'y a généralement pas de dépendances complexes à gérer si vous utilisez les versions précompilées. Nous allons couvrir les méthodes d'installation les plus courantes pour MacOS, Windows et Linux, afin que vous puissiez démarrer rapidement, quel que soit votre environnement de travail.
+Maintenant que nous avons [exploré les raisons d'utiliser un outil comme Hugo](https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo), passons à l'étape cruciale : son installation. Hugo est réputé pour sa simplicité d'installation. Il est distribué sous forme d'un unique fichier binaire exécutable, ce qui signifie qu'il n'y a généralement pas de dépendances complexes à gérer si vous utilisez les versions précompilées. Nous allons couvrir les méthodes d'installation les plus courantes pour MacOS, Windows et Linux, afin que vous puissiez démarrer rapidement, quel que soit votre environnement de travail.
 
 Nous nous baserons sur les dernières versions stables de Hugo. Vous pouvez toujours vérifier la dernière version disponible sur la page [Releases de Hugo sur GitHub](https://github.com/gohugoio/hugo/releases).
 
