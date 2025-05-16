@@ -9,7 +9,6 @@ ShowPostNavLinks: true
 cover:
   image: "/jcnm/site-static-hugo.png"
   alt: "Hugo le moteur generateur de site"
-  caption: "Edition de contenu static avec Hugo"
 ---
 
 ## Qu'est-ce que Hugo

@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sylorion.com/jcnm/</loc>
+    <lastmod>2025-05-16T10:49:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/posts/</loc>
+    <lastmod>2025-05-16T10:49:46+02:00</lastmod>
+  </url><url>
     <loc>https://sylorion.com/jcnm/categories/adoption/</loc>
     <lastmod>2025-05-14T16:18:02+02:00</lastmod>
   </url><url>
@@ -25,22 +41,6 @@
     <lastmod>2025-05-14T16:18:02+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/hugo/</loc>
-    <lastmod>2025-05-14T16:18:02+02:00</lastmod>
-  </url><url>
-    <loc>https://sylorion.com/jcnm/</loc>
-    <lastmod>2025-05-14T16:18:02+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://sylorion.com/jcnm/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://sylorion.com/jcnm/"
-                />
-  </url><url>
-    <loc>https://sylorion.com/jcnm/posts/</loc>
     <lastmod>2025-05-14T16:18:02+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</loc>
