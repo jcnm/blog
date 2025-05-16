@@ -8,11 +8,23 @@ contentDir: content
 publishDir: public
 baseURL: https://sylorion.com/jcnm/
 
+# Active les langues que nous allons définir dans languages.yaml
+languages:
+  fr:
+    disabled: false
+  en:
+    disabled: false
+
+# Configuration pour la sortie HTML (nécessaire pour certains shortcodes ou fonctionnalités)
 outputs:
   home:
     - HTML
     - RSS
-    - JSON # necessary for search
+    - JSON # JSON pour la recherche PaperMod
+  page: ["HTML"]
+  section: ["HTML", "RSS"]
+  taxonomy: ["HTML", "RSS"]
+  term: ["HTML", "RSS"]
 
 languageCode: fr
 defaultContentLanguage: fr

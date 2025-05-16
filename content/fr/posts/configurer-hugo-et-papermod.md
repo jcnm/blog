@@ -10,6 +10,7 @@ cover:
   image: "/jcnm/initialisation-configuration-hugo-site.png"
   alt: "Configuration de Hugo le moteur generateur de site"
 ---
+
 ## Configuration de Votre Site avec Hugo et le Thème PaperMod
 
 Avec Hugo installé, nous pouvons maintenant créer la structure de notre nouveau site et y intégrer le thème PaperMod. Ce thème est apprécié pour sa simplicité, sa rapidité, son design épuré et ses nombreuses fonctionnalités, y compris un bon support pour le multilinguisme.
@@ -19,7 +20,7 @@ Avec Hugo installé, nous pouvons maintenant créer la structure de notre nouvea
 Ouvrez votre terminal ou invite de commandes, naviguez jusqu'au répertoire où vous souhaitez créer votre site (par exemple, `~/Sites` ou `C:\Users\VotreNom\Documents\Sites`), puis exécutez la commande suivante pour créer un nouveau site Hugo. Remplacez `mon-nouveau-site` par le nom que vous souhaitez donner à votre projet :
 
 ```bash
-hugo new site mon-nouveau-site
+hugo new site mon-nouveau-site --format yaml # l'option format permet de fixer le format yaml
 ```
 
 Cette commande crée un nouveau dossier nommé `mon-nouveau-site` (ou le nom que vous avez choisi) avec la structure de base d'un projet Hugo :
@@ -44,7 +45,8 @@ Naviguez dans le répertoire de votre nouveau site :
 cd mon-nouveau-site
 ```
 
-**Note sur le fichier de configuration :** Les versions récentes de Hugo utilisent `hugo.toml` par défaut. Si vous voyez `config.toml`, c'est également correct. La syntaxe TOML, YAML (`config.yaml` ou `hugo.yaml`) ou JSON (`config.json` ou `hugo.json`) peut être utilisée. Pour la suite de cet article, nous utiliserons principalement la syntaxe YAML dans un fichier nommé `hugo.yaml` pour sa lisibilité, mais les exemples seront facilement adaptables en TOML si vous préférez `hugo.toml`.
+**Note sur le fichier de configuration :** Les versions récentes de Hugo utilisent `hugo.toml` par défaut. Si vous voyez `config.toml`, c'est également correct. La syntaxe TOML, YAML (`config.yaml` ou `hugo.yaml`) ou JSON (`config.json` ou `hugo.json`) peut être utilisée. 
+Pour la suite de cet article, nous utiliserons principalement la syntaxe YAML dans un fichier nommé `hugo.yaml` pour sa lisibilité, mais les exemples seront facilement adaptables en TOML si vous préférez `hugo.toml`.
 Si votre site a été créé avec `hugo.toml`, vous pouvez le renommer en `hugo.yaml` et adapter la syntaxe, ou continuer avec TOML.
 
 ### 2. Installation du Thème PaperMod
@@ -72,6 +74,7 @@ Cette méthode est la plus propre si vous prévoyez d'utiliser Git pour gérer v
     ```bash
     git submodule update --remote --merge
     ```
+  Si vous n'êtes pas à l'aise avec les submodule, téléchargez et installez manuellement.
 
 #### Option 2 : Installation Manuelle (Téléchargement)
 
@@ -85,8 +88,6 @@ Si vous n'utilisez pas Git, vous pouvez télécharger le thème manuellement.
     Vous devriez avoir `themes/PaperMod/`.
 
 ### 3. Configuration de Base du Thème
-
-Une fois le thème installé, vous devez indiquer à Hugo de l'utiliser. Ouvrez votre fichier de configuration principal (par exemple, `hugo.yaml` ou `hugo.toml` à la racine de votre site) et ajoutez/modifiez les lignes suivantes.
 
 Nous allons opter pour une structure de configuration modulaire, comme vu dans nos notes sur le multilinguisme, en utilisant un dossier `config/_default/`.
 
@@ -107,11 +108,13 @@ mon-nouveau-site/
 └── hugo.yaml  # Fichier principal, peut être minimal
 ```
 
+Une fois le thème installé, vous devez indiquer à Hugo de l'utiliser. Ouvrez votre fichier de configuration principal (par exemple, `hugo.yaml` ou `hugo.toml` à la racine de votre site) et ajoutez/modifiez les lignes suivantes.
+
 **Contenu de `hugo.yaml` (fichier principal à la racine) :**
 
 ```yaml
 # hugo.yaml
-baseURL: "https://votredomaine.com/" # Remplacez par votre URL finale
+baseURL: "https://sylorion.com/jcnm" # Remplacez par votre URL finale
 title: Mon Super Site
 
 # Active la configuration depuis le dossier config/_default
