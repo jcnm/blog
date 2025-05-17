@@ -1,21 +1,19 @@
 ---
 date: '2025-05-16T16:27:28+02:00'
 draft: false
-title: 'Configuration de Votre Site avec Hugo et le Thème PaperMod'
+title: 'Configuration blog avec Hugo et le Thème PaperMod'
 tags: ["hugo", "web", "blog", "installation", "static", "exploration"]
 categories: ["Tutoriel", "Adoption"]
 series: ["Hugo Introduction"]
 ShowPostNavLinks: true
 cover:
-  image: "/jcnm/initialisation-configuration-hugo-site.png"
+  image: "/jcnm/images/fr/initialisation-configuration-hugo-site.png"
   alt: "Configuration de Hugo le moteur generateur de site"
 ---
 
-## Configuration de Votre Site avec Hugo et le Thème PaperMod
-
 Avec Hugo installé, nous pouvons maintenant créer la structure de notre nouveau site et y intégrer le thème PaperMod. Ce thème est apprécié pour sa simplicité, sa rapidité, son design épuré et ses nombreuses fonctionnalités, y compris un bon support pour le multilinguisme.
 
-### 1. Initialisation d'un Nouveau Site Hugo
+## 1. Initialisation d'un Nouveau Site Hugo
 
 Ouvrez votre terminal ou invite de commandes, naviguez jusqu'au répertoire où vous souhaitez créer votre site (par exemple, `~/Sites` ou `C:\Users\VotreNom\Documents\Sites`), puis exécutez la commande suivante pour créer un nouveau site Hugo. Remplacez `mon-nouveau-site` par le nom que vous souhaitez donner à votre projet :
 
@@ -49,11 +47,11 @@ cd mon-nouveau-site
 Pour la suite de cet article, nous utiliserons principalement la syntaxe YAML dans un fichier nommé `hugo.yaml` pour sa lisibilité, mais les exemples seront facilement adaptables en TOML si vous préférez `hugo.toml`.
 Si votre site a été créé avec `hugo.toml`, vous pouvez le renommer en `hugo.yaml` et adapter la syntaxe, ou continuer avec TOML.
 
-### 2. Installation du Thème PaperMod
+## 2. Installation du Thème PaperMod
 
 Il existe deux méthodes principales pour installer un thème Hugo : en tant que submodule Git (recommandé si votre projet est sous Git) ou par téléchargement manuel.
 
-#### Option 1 : Installation via Submodule Git (Recommandé)
+### Option 1 : Installation via Submodule Git (Recommandé)
 
 Cette méthode est la plus propre si vous prévoyez d'utiliser Git pour gérer votre projet. Elle facilite les mises à jour du thème.
 
@@ -76,7 +74,7 @@ Cette méthode est la plus propre si vous prévoyez d'utiliser Git pour gérer v
     ```
   Si vous n'êtes pas à l'aise avec les submodule, téléchargez et installez manuellement.
 
-#### Option 2 : Installation Manuelle (Téléchargement)
+### Option 2 : Installation Manuelle (Téléchargement)
 
 Si vous n'utilisez pas Git, vous pouvez télécharger le thème manuellement.
 
@@ -87,7 +85,7 @@ Si vous n'utilisez pas Git, vous pouvez télécharger le thème manuellement.
 5.  Copiez ce dossier `PaperMod` dans le répertoire `themes/` de votre site Hugo.
     Vous devriez avoir `themes/PaperMod/`.
 
-### 3. Configuration de Base du Thème
+## 3. Configuration de Base du Thème
 
 Nous allons opter pour une structure de configuration modulaire, comme vu dans nos notes sur le multilinguisme, en utilisant un dossier `config/_default/`.
 
@@ -233,7 +231,7 @@ ShowBreadCrumbs: true
 ShowCodeCopyButtons: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true # Table des matières générée par Hugo
+UseHugoToc: false # Table des matières générée par Hugo
 
 # Pour le sélecteur de langue
 ShowLanguageSwitcher: true
@@ -248,7 +246,7 @@ assets:
 
 # Paramètres pour la recherche (si activée dans PaperMod)
 outputs:
-  home: ["HTML", "RSS", "JSON"] # Nécessaire pour la recherche
+  home: ["HTML", "RSS", "JSON"] # Pour rappe, nécessaire pour la recherche
 
 # Paramètres pour les commentaires (exemple avec Disqus, à adapter)
 # disqusShortname: "votreshortnamedisqus"
@@ -276,8 +274,8 @@ homeInfoParams:
 ```
 
 N'oubliez pas de créer les images référencées (profile.png, favicons) et de les placer dans le dossier `static/images/`.
-
-### 4. Création d'un Premier Article (Test)
+Placer ces images dans static, permettent de ne pas les com
+## 4. Création d'un Premier Article (Test)
 
 Pour vérifier que tout fonctionne, créons un premier article.
 
@@ -304,7 +302,7 @@ Bienvenue sur mon blog ! Ceci est mon premier article. Hugo est **rapide** et Pa
 Un peu de contenu ici.
 ```
 
-### 5. Lancement du Serveur de Développement Hugo
+## 5. Lancement du Serveur de Développement Hugo
 
 À la racine de votre projet, lancez le serveur de développement Hugo :
 
@@ -320,7 +318,7 @@ hugo server -D
 
 Hugo va compiler votre site et le rendre disponible localement, généralement à l'adresse `http://localhost:1313/`. Ouvrez cette URL dans votre navigateur. Vous devriez voir votre site avec le thème PaperMod et votre premier article.
 
-### 6. Création de la Page de Contact Multilingue avec Google Form
+## 6. Création de la Page de Contact Multilingue avec Google Form
 
 Comme demandé, nous allons créer une page de contact qui intègre un formulaire Google Form, avec une version pour chaque langue.
 

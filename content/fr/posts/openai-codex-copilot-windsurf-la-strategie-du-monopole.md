@@ -7,12 +7,12 @@ categories: ["AI", "Analyse", "SWE", "Industrie"]
 series: ["Analyse OpenAI"]
 ShowPostNavLinks: true
 cover:
-  image: "/jcnm/microsoft-openai-tooling.png"
+  image: "/jcnm/images/fr/microsoft-openai-tooling.png"
   alt: "Coopération OpenAI Microsoft et Github"
 ---
 
 ## **Contexte et relations entre les acteurs**
-{{< figure align=center src="/jcnm/codex-github-microsoft-openai.png" >}}
+{{< figure align=center src="/jcnm/images/fr/codex-github-microsoft-openai.png" >}}
 1. **Microsoft et GitHub** :
 - Microsoft a acquis GitHub en 2018 pour 7,5 milliards de dollars. GitHub est une plateforme essentielle pour les développeurs, hébergeant des millions de projets open-source et propriétaires.
 - GitHub a développé **GitHub Copilot**, un outil d’assistance au codage basé sur l’IA, initialement alimenté par le modèle **Codex** d’OpenAI (une version de GPT-3 fine-tunée pour le code). Copilot est intégré dans des environnements de développement comme Visual Studio Code.
@@ -104,7 +104,7 @@ En résumé, OpenAI joue la carte de l’offensive pour sécuriser une part du m
 
 La complexité des liens entre OpenAI et Microsoft est de taille et avec cette nouvelle annonce on se retrouve sur un schéma un peu plus complexe et soulève des questions sur l'avenir de Copilot Workspace. 
 
-{{< figure align=center src="/jcnm/focus-copilot-worspace-links.png" >}}
+{{< figure align=center src="/jcnm/images/fr/focus-copilot-worspace-links.png" >}}
 
 Nous n'avons pas beaucoup djos de Cursor, Lovable et bien d'autres acteurs, mais ce post vise uniquement à couvrir le lancement de Codex cloud par OpenAI ce matin.
 On pourrait être perdu entre les liens des différents structures autour d'OpenAI et des technologies offert à Microsoft.  

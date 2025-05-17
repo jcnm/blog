@@ -15,13 +15,12 @@
     <lastBuildDate>Fri, 16 May 2025 16:27:28 +0200</lastBuildDate>
     <atom:link href="https://sylorion.com/jcnm/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Configuration de Votre Site avec Hugo et le Thème PaperMod</title>
+      <title>Configuration blog avec Hugo et le Thème PaperMod</title>
       <link>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</link>
       <pubDate>Fri, 16 May 2025 16:27:28 +0200</pubDate>
       <guid>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</guid>
-      <description>&lt;h2 id=&#34;configuration-de-votre-site-avec-hugo-et-le-thème-papermod&#34;&gt;Configuration de Votre Site avec Hugo et le Thème PaperMod&lt;/h2&gt;
-&lt;p&gt;Avec Hugo installé, nous pouvons maintenant créer la structure de notre nouveau site et y intégrer le thème PaperMod. Ce thème est apprécié pour sa simplicité, sa rapidité, son design épuré et ses nombreuses fonctionnalités, y compris un bon support pour le multilinguisme.&lt;/p&gt;
-&lt;h3 id=&#34;1-initialisation-dun-nouveau-site-hugo&#34;&gt;1. Initialisation d&amp;rsquo;un Nouveau Site Hugo&lt;/h3&gt;
+      <description>&lt;p&gt;Avec Hugo installé, nous pouvons maintenant créer la structure de notre nouveau site et y intégrer le thème PaperMod. Ce thème est apprécié pour sa simplicité, sa rapidité, son design épuré et ses nombreuses fonctionnalités, y compris un bon support pour le multilinguisme.&lt;/p&gt;
+&lt;h2 id=&#34;1-initialisation-dun-nouveau-site-hugo&#34;&gt;1. Initialisation d&amp;rsquo;un Nouveau Site Hugo&lt;/h2&gt;
 &lt;p&gt;Ouvrez votre terminal ou invite de commandes, naviguez jusqu&amp;rsquo;au répertoire où vous souhaitez créer votre site (par exemple, &lt;code&gt;~/Sites&lt;/code&gt; ou &lt;code&gt;C:\Users\VotreNom\Documents\Sites&lt;/code&gt;), puis exécutez la commande suivante pour créer un nouveau site Hugo. Remplacez &lt;code&gt;mon-nouveau-site&lt;/code&gt; par le nom que vous souhaitez donner à votre projet :&lt;/p&gt;</description>
     </item>
     <item>

@@ -88,15 +88,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/jcnm/icon32x32.png" # path to image
-    favicon16x16: "/jcnm/icon16x16.png"
-    favicon32x32: "/jcnm/icon32x32.png"
-    apple_touch_icon: "/jcnm/icon152x152.png"
-    safari_pinned_tab: "/jcnm/icon180x180.png"
+    favicon: "/jcnm/images/icon32x32.png" # path to image
+    favicon16x16: "/jcnm/images/icon16x16.png"
+    favicon32x32: "/jcnm/images/icon32x32.png"
+    apple_touch_icon: "/jcnm/images/icon152x152.png"
+    safari_pinned_tab: "/jcnm/images/icon180x180.png"
 
   label:
     text: ""
-    icon: /jcnm/icon.png
+    icon: /jcnm/images/icon.png
     iconHeight: 35
 
   # home-info mode

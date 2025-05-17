@@ -10,7 +10,7 @@ en:
       enabled: true # needs to be explicitly set
       title: "@jcnm"
       subtitle: "Where I share my thoughts, experimentations and ideas, nothing more."
-      imageUrl: "/jcnm/profile720x720.png" # path to image
+      imageUrl: "/jcnm/images/profile720x720.png" # path to image
       imageWidth: 120
       imageHeight: 120
       imageTitle: jcnm profile image
@@ -32,7 +32,7 @@ fr:
       enabled: true # needs to be explicitly set
       title: "@jcnm"
       subtitle: "Où je partage mes pensées, expériences et idées, rien de plus."
-      imageUrl: "/jcnm/profile720x720.png" # path to image
+      imageUrl: "/jcnm/images/profile720x720.png" # path to image
       imageWidth: 120
       imageHeight: 120
       imageTitle: image de profil de jcnm

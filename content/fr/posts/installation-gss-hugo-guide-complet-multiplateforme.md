@@ -7,7 +7,7 @@ categories: ["Tutoriel", "Adoption"]
 series: ["Hugo Introduction"]
 ShowPostNavLinks: true
 cover:
-  image: "/jcnm/installation-hugo-complet-guide.png"
+  image: "/jcnm/images/fr/installation-hugo-complet-guide.png"
   alt: "Installation de Hugo le moteur generateur de site"
 ---
 
