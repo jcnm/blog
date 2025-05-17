@@ -2,7 +2,7 @@
 date: '2025-05-16T16:27:28+02:00'
 draft: false
 title: 'Configuration de Votre Site avec Hugo et le Thème PaperMod'
-tags: ["hugo", "web", "blog", "static", "exploration"]
+tags: ["hugo", "web", "blog", "installation", "static", "exploration"]
 categories: ["Tutoriel", "Adoption"]
 series: ["Hugo Introduction"]
 ShowPostNavLinks: true

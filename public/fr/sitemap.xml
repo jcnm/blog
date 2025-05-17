@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sylorion.com/jcnm/categories/adoption/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <loc>https://sylorion.com/jcnm/tags/ai/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
   </url><url>
-    <loc>https://sylorion.com/jcnm/tags/blog/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <loc>https://sylorion.com/jcnm/categories/ai/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/categories/analyse/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/categories/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -21,17 +24,23 @@
                 href="https://sylorion.com/jcnm/categories/"
                 />
   </url><url>
-    <loc>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <loc>https://sylorion.com/jcnm/tags/codage/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
   </url><url>
-    <loc>https://sylorion.com/jcnm/tags/exploration/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <loc>https://sylorion.com/jcnm/tags/concurrence/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
   </url><url>
-    <loc>https://sylorion.com/jcnm/tags/hugo/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <loc>https://sylorion.com/jcnm/tags/finance/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/generation/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/categories/industrie/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -43,8 +52,14 @@
                 href="https://sylorion.com/jcnm/"
                 />
   </url><url>
+    <loc>https://sylorion.com/jcnm/tags/march%C3%A9/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/posts/openai-codex-copilot-windsurf-la-strategie-du-monopole/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
+  </url><url>
     <loc>https://sylorion.com/jcnm/posts/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -56,11 +71,14 @@
                 href="https://sylorion.com/jcnm/posts/"
                 />
   </url><url>
-    <loc>https://sylorion.com/jcnm/tags/static/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <loc>https://sylorion.com/jcnm/tags/swe/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/categories/swe/</loc>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/</loc>
-    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+    <lastmod>2025-05-17T09:44:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -72,6 +90,27 @@
                 href="https://sylorion.com/jcnm/tags/"
                 />
   </url><url>
+    <loc>https://sylorion.com/jcnm/categories/adoption/</loc>
+    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/blog/</loc>
+    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</loc>
+    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/exploration/</loc>
+    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/hugo/</loc>
+    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/installation/</loc>
+    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/static/</loc>
+    <lastmod>2025-05-16T16:27:28+02:00</lastmod>
+  </url><url>
     <loc>https://sylorion.com/jcnm/categories/tutoriel/</loc>
     <lastmod>2025-05-16T16:27:28+02:00</lastmod>
   </url><url>
@@ -79,9 +118,6 @@
     <lastmod>2025-05-16T16:27:28+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/guide/</loc>
-    <lastmod>2025-05-16T10:49:46+02:00</lastmod>
-  </url><url>
-    <loc>https://sylorion.com/jcnm/tags/installation/</loc>
     <lastmod>2025-05-16T10:49:46+02:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/posts/installation-gss-hugo-guide-complet-multiplateforme/</loc>
