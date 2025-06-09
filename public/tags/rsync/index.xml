@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rsync on JCNM</title>
+    <link>https://sylorion.com/jcnm/tags/rsync/</link>
+    <description>Recent content in Rsync on JCNM</description>
+    <image>
+      <title>JCNM</title>
+      <url>https://sylorion.com/jcnm/images/profile.png</url>
+      <link>https://sylorion.com/jcnm/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>fr-FR</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Mon, 09 Jun 2025 18:57:00 +0000</lastBuildDate>
+    <atom:link href="https://sylorion.com/jcnm/tags/rsync/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Déploiement Automatisé de Votre Site Hugo sur un Hébergement OVHcloud</title>
+      <link>https://sylorion.com/jcnm/posts/deploy-hugo-ovhcloud/</link>
+      <pubDate>Mon, 09 Jun 2025 18:55:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/deploy-hugo-ovhcloud/</guid>
+      <description>Guide complet pour déployer automatiquement votre site Hugo sur un hébergement OVHcloud, des méthodes manuelles aux solutions CI/CD avancées.</description>
+    </item>
+  </channel>
+</rss>

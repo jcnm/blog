@@ -5,6 +5,7 @@ draft: false
 categories: ["Intelligence Artificielle", "Protocoles", "Sécurité"]
 tags: ["ANS", "Agent Name Service", "Agents IA", "Découverte d'agents", "Interopérabilité", "DIDs", "MCP", "A2A", "PKI"]
 description: "Une analyse approfondie du protocole Agent Name Service (ANS), un standard émergent pour la découverte, l'identification et la communication sécurisée entre agents IA autonomes, avec comparaison détaillée aux autres systèmes de découverte."
+translationKey: ans_protocol
 cover:
   image: "/jcnm/images/ans_protocol_illustration.png"
   alt: "ANS Protocol"

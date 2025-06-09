@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exploration on JCNM</title>
+    <link>https://sylorion.com/jcnm/tags/exploration/</link>
+    <description>Recent content in Exploration on JCNM</description>
+    <image>
+      <title>JCNM</title>
+      <url>https://sylorion.com/jcnm/images/profile.png</url>
+      <link>https://sylorion.com/jcnm/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>fr-FR</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Fri, 16 May 2025 16:27:28 +0200</lastBuildDate>
+    <atom:link href="https://sylorion.com/jcnm/tags/exploration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration blog avec Hugo et le Thème PaperMod</title>
+      <link>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</link>
+      <pubDate>Fri, 16 May 2025 16:27:28 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</guid>
+      <description>&lt;p&gt;Avec Hugo installé, nous pouvons maintenant créer la structure de notre nouveau site et y intégrer le thème PaperMod. Ce thème est apprécié pour sa simplicité, sa rapidité, son design épuré et ses nombreuses fonctionnalités, y compris un bon support pour le multilinguisme.&lt;/p&gt;
+&lt;h2 id=&#34;1-initialisation-dun-nouveau-site-hugo&#34;&gt;1. Initialisation d&amp;rsquo;un Nouveau Site Hugo&lt;/h2&gt;
+&lt;p&gt;Ouvrez votre terminal ou invite de commandes, naviguez jusqu&amp;rsquo;au répertoire où vous souhaitez créer votre site (par exemple, &lt;code&gt;~/Sites&lt;/code&gt; ou &lt;code&gt;C:\Users\VotreNom\Documents\Sites&lt;/code&gt;), puis exécutez la commande suivante pour créer un nouveau site Hugo. Remplacez &lt;code&gt;mon-nouveau-site&lt;/code&gt; par le nom que vous souhaitez donner à votre projet :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rédaction de contenu en ligne avec Hugo</title>
+      <link>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</link>
+      <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</guid>
+      <description>&lt;h2 id=&#34;quest-ce-que-hugo&#34;&gt;Qu&amp;rsquo;est-ce que Hugo&lt;/h2&gt;
+&lt;p&gt;Les générateurs de sites statiques (GSS) représentent une approche fondamentalement différente de la création web par rapport aux systèmes de gestion de contenu (CMS) dynamiques. Au lieu d&amp;rsquo;assembler les pages à la volée lors de chaque visite, un GSS pré-compile l&amp;rsquo;intégralité du site en fichiers HTML, CSS et JavaScript statiques qui peuvent être servis directement, sans traitement serveur supplémentaire.&lt;/p&gt;
+&lt;p&gt;Cette architecture présente plusieurs avantages inhérents :speak_no_evil: :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt; : Les pages statiques se chargent instantanément&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sécurité&lt;/strong&gt; : L&amp;rsquo;absence de base de données et de code exécuté dynamiquement élimine de nombreux vecteurs d&amp;rsquo;attaque&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Évolutivité&lt;/strong&gt; : Des fichiers statiques peuvent être facilement mis en cache et distribués via CDN&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicité d&amp;rsquo;hébergement&lt;/strong&gt; : N&amp;rsquo;importe quel serveur web peut héberger ces fichiers - &lt;em&gt;the best argument&lt;/em&gt; pour moi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lécosystème-des-générateurs-de-sites-statiques&#34;&gt;L&amp;rsquo;écosystème des générateurs de sites statiques&lt;/h2&gt;
+&lt;p&gt;Le marché des GSS s&amp;rsquo;est considérablement développé ces dernières années, chacun apportant sa philosophie et ses spécificités:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

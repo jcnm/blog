@@ -7,7 +7,7 @@ categories: ["Tutoriel", "Déploiement"]
 tags: ["hugo", "ovhcloud", "déploiement", "automatisation", "hébergement web", "rsync", "sftp", "git", "ci/cd"]
 toc: true
 lastmod: 2025-06-09T18:57:00+00:00
-aliases: ["/deploiement-hugo-ovh/", "/tutoriels/hugo-ovhcloud/"]
+aliases: ["/fr/deploiement-hugo-ovh/", "/fr/tutoriels/hugo-ovhcloud/"]
 series: ["Hugo Introduction"]
 ShowPostNavLinks: true
 cover:
@@ -23,9 +23,8 @@ Le déploiement consiste essentiellement à transférer les fichiers statiques g
 
 Avant de pouvoir déployer votre site, assurez-vous d'avoir les informations suivantes relatives à votre hébergement OVHcloud :
 
-{{< notice info >}}
-Ces informations sont disponibles dans votre espace client OVHcloud, section "Hébergements", onglet "FTP - SSH".
-{{< /notice >}}
+> **Info**  
+> Ces informations sont disponibles dans votre espace client OVHcloud, section "Hébergements", onglet "FTP - SSH".
 
 1. **Accès FTP/SFTP/SSH** : Vous aurez besoin des identifiants de connexion :
    * **Serveur hôte (Hostname)** : L'adresse du serveur FTP/SFTP (par exemple, `ftp.clusterXXX.hosting.ovh.net` ou une adresse IP).
@@ -45,9 +44,8 @@ Plusieurs méthodes s'offrent à vous pour déployer votre site Hugo. Nous allon
 
 Bien que cet article se concentre sur l'automatisation, il est bon de connaître la méthode manuelle de base.
 
-{{< notice warning >}}
-Cette méthode est manuelle, répétitive, et sujette aux erreurs (oubli de fichiers, mauvais répertoire de destination). Elle n'est pas recommandée pour des mises à jour fréquentes.
-{{< /notice >}}
+> **Attention**  
+> Cette méthode est manuelle, répétitive, et sujette aux erreurs (oubli de fichiers, mauvais répertoire de destination). Elle n'est pas recommandée pour des mises à jour fréquentes.
 
 1. **Générez votre site** : Localement, exécutez la commande `hugo` (ou `hugo --minify` pour optimiser la taille des fichiers) à la racine de votre projet. Cela crée (ou met à jour) le dossier `public/` avec tous les fichiers statiques de votre site.
 
@@ -71,9 +69,8 @@ Nous développerons un exemple de script utilisant SFTP (ou `rsync` sur SSH) dan
 
 ### 3. Déploiement via `rsync` sur SSH (Recommandé)
 
-{{< notice tip >}}
-Si votre hébergement OVHcloud permet l'accès SSH, `rsync` est l'outil de choix pour un déploiement efficace et rapide.
-{{< /notice >}}
+> **Conseil**  
+> Si votre hébergement OVHcloud permet l'accès SSH, `rsync` est l'outil de choix pour un déploiement efficace et rapide.
 
 * **Principe** : `rsync` (Remote Sync) est un utilitaire qui synchronise les fichiers et répertoires entre deux emplacements (local et distant) de manière très efficiente. Il ne transfère que les parties modifiées des fichiers, ce qui rend les mises à jour très rapides.
 
@@ -108,9 +105,8 @@ Si vous disposez d'un VPS/Dédié ou d'un accès SSH avancé :
 3. Lorsque vous faites un `git push` de votre machine locale vers ce dépôt serveur, le hook se déclenche.
 4. Le script du hook peut alors : cloner le code dans un répertoire temporaire, exécuter `hugo` pour builder le site, puis copier les fichiers de `public/` vers votre répertoire `www/`.
 
-{{< notice warning >}}
-Cette approche est plus complexe à mettre en place, surtout sur un hébergement mutualisé où vous n'avez pas un contrôle total du serveur. Elle est mieux adaptée aux VPS ou serveurs dédiés.
-{{< /notice >}}
+> **Attention**  
+> Cette approche est plus complexe à mettre en place, surtout sur un hébergement mutualisé où vous n'avez pas un contrôle total du serveur. Elle est mieux adaptée aux VPS ou serveurs dédiés.
 
 #### Option B : Utilisation d'un Service CI/CD
 
@@ -137,9 +133,8 @@ git push ovh_production main
 
 où `ovh_production` est un remote pointant vers un dépôt sur OVH qui est directement servi, ou qui déclenche une simple synchronisation.
 
-{{< notice note >}}
-Pour un hébergement mutualisé OVHcloud standard, le déploiement par `rsync` sur SSH (si disponible) ou un script SFTP robuste sont les options les plus directes et efficaces pour l'automatisation.
-{{< /notice >}}
+> **Note**  
+> Pour un hébergement mutualisé OVHcloud standard, le déploiement par `rsync` sur SSH (si disponible) ou un script SFTP robuste sont les options les plus directes et efficaces pour l'automatisation.
 
 ## Considérations de Sécurité pour le Déploiement
 
@@ -280,9 +275,8 @@ echo -e "${GREEN}Déploiement terminé avec succès !${NC}"
 echo -e "${GREEN}Votre site est maintenant en ligne à l'adresse : https://votredomaine.com${NC}"
 ```
 
-{{< notice warning >}}
-Dans le script SFTP ci-dessus, nous utilisons une variable d'environnement pour le mot de passe, ce qui est plus sécurisé que de l'inclure directement dans le script. Assurez-vous de définir cette variable avant d'exécuter le script.
-{{< /notice >}}
+> **Attention**  
+> Dans le script SFTP ci-dessus, nous utilisons une variable d'environnement pour le mot de passe, ce qui est plus sécurisé que de l'inclure directement dans le script. Assurez-vous de définir cette variable avant d'exécuter le script.
 
 ## Intégration avec le Workflow Hugo
 

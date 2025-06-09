@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JCNM</title>
+    <link>https://sylorion.com/jcnm/</link>
+    <description>Recent content on JCNM</description>
+    <image>
+      <title>JCNM</title>
+      <url>https://sylorion.com/jcnm/images/profile.png</url>
+      <link>https://sylorion.com/jcnm/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>fr-FR</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Mon, 09 Jun 2025 18:57:00 +0000</lastBuildDate>
+    <atom:link href="https://sylorion.com/jcnm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Déploiement Automatisé de Votre Site Hugo sur un Hébergement OVHcloud</title>
+      <link>https://sylorion.com/jcnm/posts/deploy-hugo-ovhcloud/</link>
+      <pubDate>Mon, 09 Jun 2025 18:55:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/deploy-hugo-ovhcloud/</guid>
+      <description>Guide complet pour déployer automatiquement votre site Hugo sur un hébergement OVHcloud, des méthodes manuelles aux solutions CI/CD avancées.</description>
+    </item>
+    <item>
+      <title>Agent Name Service (ANS) : Un protocole universel pour la découverte sécurisée d&#39;agents IA</title>
+      <link>https://sylorion.com/jcnm/posts/vue-ensemble-et-fondamentaux-du-protocole-agent-name-service/</link>
+      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/vue-ensemble-et-fondamentaux-du-protocole-agent-name-service/</guid>
+      <description>Une analyse approfondie du protocole Agent Name Service (ANS), un standard émergent pour la découverte, l&amp;#39;identification et la communication sécurisée entre agents IA autonomes, avec comparaison détaillée aux autres systèmes de découverte.</description>
+    </item>
+    <item>
+      <title>Openai Codex: La Strategie Du Monopole</title>
+      <link>https://sylorion.com/jcnm/posts/openai-codex-copilot-windsurf-la-strategie-du-monopole/</link>
+      <pubDate>Sat, 17 May 2025 09:44:22 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/openai-codex-copilot-windsurf-la-strategie-du-monopole/</guid>
+      <description>&lt;h2 id=&#34;contexte-et-relations-entre-les-acteurs&#34;&gt;&lt;strong&gt;Contexte et relations entre les acteurs&lt;/strong&gt;&lt;/h2&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://sylorion.com/jcnm/images/fr/codex-github-microsoft-openai.png#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft et GitHub&lt;/strong&gt; :&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft a acquis GitHub en 2018 pour 7,5 milliards de dollars. GitHub est une plateforme essentielle pour les développeurs, hébergeant des millions de projets open-source et propriétaires.&lt;/li&gt;
+&lt;li&gt;GitHub a développé &lt;strong&gt;GitHub Copilot&lt;/strong&gt;, un outil d’assistance au codage basé sur l’IA, initialement alimenté par le modèle &lt;strong&gt;Codex&lt;/strong&gt; d’OpenAI (une version de GPT-3 fine-tunée pour le code). Copilot est intégré dans des environnements de développement comme Visual Studio Code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copilot Workspace&lt;/strong&gt; est une évolution de Copilot, offrant un environnement plus agentique où l’IA peut planifier, écrire, et exécuter des tâches de développement complexes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft et OpenAI&lt;/strong&gt; :&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft détient environ &lt;strong&gt;49 % d’OpenAI&lt;/strong&gt; (participation non majoritaire) et a investi des milliards depuis 2019, notamment pour intégrer les modèles d’OpenAI (ChatGPT, GPT-4, Codex) dans ses produits comme Microsoft 365 Copilot, Azure, et GitHub Copilot.&lt;/li&gt;
+&lt;li&gt;Cette relation est une &lt;strong&gt;“coopétition”&lt;/strong&gt; : collaboration sur les modèles de base (OpenAI fournit la technologie, Microsoft l’infrastructure cloud Azure), mais compétition dans certains domaines, notamment les outils de développement IA.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;OpenAI, Codex, et Windsurf&lt;/strong&gt; :&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenAI a lancé une &lt;a href=&#34;https://www.itpro.com/software/development/openai-just-launched-codex-a-new-ai-agent-for-software-engineering&#34;&gt;nouvelle version de &lt;strong&gt;Codex&lt;/strong&gt; le 16 mai 2025&lt;/a&gt;, en tant qu’agent de développement cloud intégré à ChatGPT. Ce Codex est un &lt;strong&gt;agent logiciel d’ingénierie (SWE)&lt;/strong&gt; basé sur le modèle o3, capable d’&lt;a href=&#34;https://venturebeat.com/programming-development/openai-launches-research-preview-of-codex-ai-software-engineering-agent-for-developers-with-parallel-tasking/&#34;&gt;exécuter plusieurs tâches en parallèle&lt;/a&gt; (écriture de code, débogage, tests). Il est en phase de “research preview” pour les utilisateurs Pro, Enterprise, et Team de ChatGPT.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/2025/05/13/technology/openai-windsurf-talks.html&#34;&gt;OpenAI a acquis &lt;strong&gt;Windsurf&lt;/strong&gt;&lt;/a&gt; (anciennement Codeium) pour environ 3 milliards de dollars, une &lt;a href=&#34;https://venturebeat.com/ai/report-openai-is-buying-ai-powered-developer-platform-windsurf-what-happens-to-its-support-for-rival-llms/&#34;&gt;plateforme d’assistance au codage IA&lt;/a&gt; similaire à &lt;strong&gt;Cursor&lt;/strong&gt;, avec 800 000 utilisateurs développeurs et 1 000 entreprises clientes. Windsurf est connu pour son approche de “vibe coding”, permettant d’écrire et d’éditer du code via des conversations avec un chatbot IA.&lt;/li&gt;
+&lt;li&gt;Windsurf utilisait des modèles d’IA d’OpenAI, Anthropic, et Google, mais a récemment lancé &lt;a href=&#34;https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/&#34;&gt;ses propres modèles SWE-1&lt;/a&gt;, renforçant son indépendance technologique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Concurrence dans le marché des outils de codage IA&lt;/strong&gt; :&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Le marché des assistants de codage IA est en pleine expansion, avec des acteurs comme &lt;strong&gt;Cursor&lt;/strong&gt; (valorisé à 9 milliards de dollars), &lt;strong&gt;GitHub Copilot&lt;/strong&gt;, &lt;strong&gt;Amazon CodeWhisperer&lt;/strong&gt;, &lt;strong&gt;Google Gemini Code Assist&lt;/strong&gt;, et &lt;strong&gt;Anthropic&lt;/strong&gt; (via Claude).&lt;/li&gt;
+&lt;li&gt;Ces outils évoluent vers des &lt;strong&gt;agents autonomes&lt;/strong&gt; capables non seulement de suggérer du code, mais aussi de gérer des projets entiers, intégrant des workflows complexes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pourquoi-openai-a-lancé-codex-le-16-mai-2025-&#34;&gt;&lt;strong&gt;Pourquoi OpenAI a lancé Codex le 16 mai 2025 ?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Le lancement de Codex en tant qu’agent cloud intervient dans un contexte stratégique précis :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configuration blog avec Hugo et le Thème PaperMod</title>
+      <link>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</link>
+      <pubDate>Fri, 16 May 2025 16:27:28 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/configurer-hugo-et-papermod/</guid>
+      <description>&lt;p&gt;Avec Hugo installé, nous pouvons maintenant créer la structure de notre nouveau site et y intégrer le thème PaperMod. Ce thème est apprécié pour sa simplicité, sa rapidité, son design épuré et ses nombreuses fonctionnalités, y compris un bon support pour le multilinguisme.&lt;/p&gt;
+&lt;h2 id=&#34;1-initialisation-dun-nouveau-site-hugo&#34;&gt;1. Initialisation d&amp;rsquo;un Nouveau Site Hugo&lt;/h2&gt;
+&lt;p&gt;Ouvrez votre terminal ou invite de commandes, naviguez jusqu&amp;rsquo;au répertoire où vous souhaitez créer votre site (par exemple, &lt;code&gt;~/Sites&lt;/code&gt; ou &lt;code&gt;C:\Users\VotreNom\Documents\Sites&lt;/code&gt;), puis exécutez la commande suivante pour créer un nouveau site Hugo. Remplacez &lt;code&gt;mon-nouveau-site&lt;/code&gt; par le nom que vous souhaitez donner à votre projet :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Installation de Hugo : Le Guide Complet Multiplateforme</title>
+      <link>https://sylorion.com/jcnm/posts/installation-gss-hugo-guide-complet-multiplateforme/</link>
+      <pubDate>Fri, 16 May 2025 10:49:46 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/installation-gss-hugo-guide-complet-multiplateforme/</guid>
+      <description>&lt;p&gt;Maintenant que nous avons &lt;a href=&#34;https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo&#34;&gt;exploré les raisons d&amp;rsquo;utiliser un outil comme Hugo&lt;/a&gt;, passons à l&amp;rsquo;étape cruciale : son installation. Hugo est réputé pour sa simplicité d&amp;rsquo;installation. Il est distribué sous forme d&amp;rsquo;un unique fichier binaire exécutable, ce qui signifie qu&amp;rsquo;il n&amp;rsquo;y a généralement pas de dépendances complexes à gérer si vous utilisez les versions précompilées. Nous allons couvrir les méthodes d&amp;rsquo;installation les plus courantes pour MacOS, Windows et Linux, afin que vous puissiez démarrer rapidement, quel que soit votre environnement de travail.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rédaction de contenu en ligne avec Hugo</title>
+      <link>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</link>
+      <pubDate>Wed, 14 May 2025 16:18:02 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/publier-son-contenu-en-ligne-avec-hugo/</guid>
+      <description>&lt;h2 id=&#34;quest-ce-que-hugo&#34;&gt;Qu&amp;rsquo;est-ce que Hugo&lt;/h2&gt;
+&lt;p&gt;Les générateurs de sites statiques (GSS) représentent une approche fondamentalement différente de la création web par rapport aux systèmes de gestion de contenu (CMS) dynamiques. Au lieu d&amp;rsquo;assembler les pages à la volée lors de chaque visite, un GSS pré-compile l&amp;rsquo;intégralité du site en fichiers HTML, CSS et JavaScript statiques qui peuvent être servis directement, sans traitement serveur supplémentaire.&lt;/p&gt;
+&lt;p&gt;Cette architecture présente plusieurs avantages inhérents :speak_no_evil: :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt; : Les pages statiques se chargent instantanément&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sécurité&lt;/strong&gt; : L&amp;rsquo;absence de base de données et de code exécuté dynamiquement élimine de nombreux vecteurs d&amp;rsquo;attaque&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Évolutivité&lt;/strong&gt; : Des fichiers statiques peuvent être facilement mis en cache et distribués via CDN&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicité d&amp;rsquo;hébergement&lt;/strong&gt; : N&amp;rsquo;importe quel serveur web peut héberger ces fichiers - &lt;em&gt;the best argument&lt;/em&gt; pour moi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lécosystème-des-générateurs-de-sites-statiques&#34;&gt;L&amp;rsquo;écosystème des générateurs de sites statiques&lt;/h2&gt;
+&lt;p&gt;Le marché des GSS s&amp;rsquo;est considérablement développé ces dernières années, chacun apportant sa philosophie et ses spécificités:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Propos</title>
+      <link>https://sylorion.com/jcnm/a-propos/</link>
+      <pubDate>Wed, 14 May 2025 07:20:45 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/a-propos/</guid>
+      <description>&lt;p&gt;Architecte logiciel et Team Lead passionné par l&amp;rsquo;innovation technique, je navigue depuis plus d&amp;rsquo;une décennie dans l&amp;rsquo;univers du développement logiciel, des systèmes embarqués jusqu&amp;rsquo;aux architectures complexes.
+Mon parcours m&amp;rsquo;a conduit des laboratoires de recherche aux environnements industriels exigeants, où j&amp;rsquo;ai développé une expertise pointue dans la conception d&amp;rsquo;architectures conformes aux normes les plus strictes - notamment dans les secteurs de la défense, bancaire et énergétique.&lt;/p&gt;
+&lt;h2 id=&#34;mon-expertise&#34;&gt;Mon expertise&lt;/h2&gt;
+&lt;p&gt;Spécialiste des systèmes complexes, j&amp;rsquo;excelle dans la direction technique de projets ambitieux. Mon approche combine rigueur méthodologique et créativité, qu&amp;rsquo;il s&amp;rsquo;agisse de:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacter</title>
+      <link>https://sylorion.com/jcnm/contact/</link>
+      <pubDate>Wed, 14 May 2025 07:01:22 +0200</pubDate>
+      <guid>https://sylorion.com/jcnm/contact/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdVK-hz3_OA6H0Sbl9Kt-e-P-TQ72MyhNa1R_euJaGLlz44bg/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;980&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34;&gt;Chargement…&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>
