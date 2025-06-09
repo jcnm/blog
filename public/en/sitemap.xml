@@ -2,8 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sylorion.com/jcnm/en/tags/a2a/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/a2a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/a2a/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/agent-discovery/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/agent-name-service/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/agent-name-service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/agent-name-service/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/posts/overview-and-fundamentals-of-agent-name-service-protocol/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/ai-agents/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/ans/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/ans/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/ans/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/categories/artificial-intelligence/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/categories/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/categories/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/dids/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/dids/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/dids/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/interoperability/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+  </url><url>
     <loc>https://sylorion.com/jcnm/en/</loc>
-    <lastmod>2025-05-16T18:52:15+02:00</lastmod>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -15,8 +95,34 @@
                 href="https://sylorion.com/jcnm/en/"
                 />
   </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/mcp/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/mcp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/mcp/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/pki/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/pki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/pki/"
+                />
+  </url><url>
     <loc>https://sylorion.com/jcnm/en/posts/</loc>
-    <lastmod>2025-05-16T18:52:15+02:00</lastmod>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -26,6 +132,25 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://sylorion.com/jcnm/en/posts/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/categories/protocols/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/categories/security/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/en/tags/</loc>
+    <lastmod>2025-05-25T08:13:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/"
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/en/about/</loc>
@@ -39,19 +164,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://sylorion.com/jcnm/en/about/"
-                />
-  </url><url>
-    <loc>https://sylorion.com/jcnm/en/categories/</loc>
-    <lastmod>2025-05-14T07:20:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://sylorion.com/jcnm/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://sylorion.com/jcnm/en/categories/"
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/en/tags/consulting/</loc>
@@ -101,19 +213,6 @@
   </url><url>
     <loc>https://sylorion.com/jcnm/en/tags/profile/</loc>
     <lastmod>2025-05-14T07:20:41+02:00</lastmod>
-  </url><url>
-    <loc>https://sylorion.com/jcnm/en/tags/</loc>
-    <lastmod>2025-05-14T07:20:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://sylorion.com/jcnm/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://sylorion.com/jcnm/en/tags/"
-                />
   </url><url>
     <loc>https://sylorion.com/jcnm/en/contact/</loc>
     <lastmod>2025-05-13T20:06:31+02:00</lastmod>

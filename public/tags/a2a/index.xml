@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A2A on JCNM</title>
+    <link>https://sylorion.com/jcnm/tags/a2a/</link>
+    <description>Recent content in A2A on JCNM</description>
+    <image>
+      <title>JCNM</title>
+      <url>https://sylorion.com/jcnm/images/profile.png</url>
+      <link>https://sylorion.com/jcnm/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>fr-FR</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Mon, 09 Jun 2025 18:31:50 +0000</lastBuildDate>
+    <atom:link href="https://sylorion.com/jcnm/tags/a2a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Name Service (ANS) : Un protocole universel pour la découverte sécurisée d&#39;agents IA</title>
+      <link>https://sylorion.com/jcnm/posts/vue-ensemble-et-fondamentaux-du-protocole-agent-name-service/</link>
+      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/vue-ensemble-et-fondamentaux-du-protocole-agent-name-service/</guid>
+      <description>Une analyse approfondie du protocole Agent Name Service (ANS), un standard émergent pour la découverte, l&amp;#39;identification et la communication sécurisée entre agents IA autonomes, avec comparaison détaillée aux autres systèmes de découverte.</description>
+    </item>
+  </channel>
+</rss>

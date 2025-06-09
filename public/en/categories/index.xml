@@ -12,8 +12,29 @@
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <copyright>JCNM 2025</copyright>
-    <lastBuildDate>Wed, 14 May 2025 07:20:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 08:13:05 +0000</lastBuildDate>
     <atom:link href="https://sylorion.com/jcnm/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://sylorion.com/jcnm/en/categories/artificial-intelligence/</link>
+      <pubDate>Sun, 25 May 2025 08:13:05 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/en/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protocols</title>
+      <link>https://sylorion.com/jcnm/en/categories/protocols/</link>
+      <pubDate>Sun, 25 May 2025 08:13:05 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/en/categories/protocols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://sylorion.com/jcnm/en/categories/security/</link>
+      <pubDate>Sun, 25 May 2025 08:13:05 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/en/categories/security/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://sylorion.com/jcnm/en/categories/introduction/</link>
