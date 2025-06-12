@@ -2,11 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sylorion.com/jcnm/tags/automatisation/</loc>
-    <lastmod>2025-06-09T18:57:00+00:00</lastmod>
+    <loc>https://sylorion.com/jcnm/tags/apple/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/apple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/apple/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/apple-silicon/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/apple-silicon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/apple-silicon/"
+                />
   </url><url>
     <loc>https://sylorion.com/jcnm/categories/</loc>
-    <lastmod>2025-06-09T18:57:00+00:00</lastmod>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -17,6 +40,122 @@
                 hreflang="fr-FR"
                 href="https://sylorion.com/jcnm/categories/"
                 />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/posts/apple-container-framework-tests-et-retours/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/posts/apple-container-framework-feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/posts/apple-container-framework-tests-et-retours/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/conteneurisation/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/categories/devops/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/categories/devops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/categories/devops/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/docker/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/docker/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/categories/exp%C3%A9rimentation/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/macos/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/macos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/macos/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/categories/outils-de-d%C3%A9veloppement/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sylorion.com/jcnm/posts/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/posts/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/swift/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/swift/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/swift/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/</loc>
+    <lastmod>2025-06-11T05:25:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://sylorion.com/jcnm/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://sylorion.com/jcnm/tags/"
+                />
+  </url><url>
+    <loc>https://sylorion.com/jcnm/tags/automatisation/</loc>
+    <lastmod>2025-06-09T18:57:00+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/ci/cd/</loc>
     <lastmod>2025-06-09T18:57:00+00:00</lastmod>
@@ -39,34 +178,8 @@
     <loc>https://sylorion.com/jcnm/tags/hugo/</loc>
     <lastmod>2025-06-09T18:57:00+00:00</lastmod>
   </url><url>
-    <loc>https://sylorion.com/jcnm/</loc>
-    <lastmod>2025-06-09T18:57:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://sylorion.com/jcnm/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://sylorion.com/jcnm/"
-                />
-  </url><url>
     <loc>https://sylorion.com/jcnm/tags/ovhcloud/</loc>
     <lastmod>2025-06-09T18:57:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sylorion.com/jcnm/posts/</loc>
-    <lastmod>2025-06-09T18:57:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://sylorion.com/jcnm/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://sylorion.com/jcnm/posts/"
-                />
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/rsync/</loc>
     <lastmod>2025-06-09T18:57:00+00:00</lastmod>
@@ -74,24 +187,11 @@
     <loc>https://sylorion.com/jcnm/tags/sftp/</loc>
     <lastmod>2025-06-09T18:57:00+00:00</lastmod>
   </url><url>
-    <loc>https://sylorion.com/jcnm/tags/</loc>
-    <lastmod>2025-06-09T18:57:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://sylorion.com/jcnm/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://sylorion.com/jcnm/tags/"
-                />
-  </url><url>
     <loc>https://sylorion.com/jcnm/categories/tutoriel/</loc>
     <lastmod>2025-06-09T18:57:00+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/a2a/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -104,7 +204,7 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/agent-name-service/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -117,7 +217,7 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/posts/vue-ensemble-et-fondamentaux-du-protocole-agent-name-service/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -130,10 +230,10 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/agents-ia/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/ans/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -146,10 +246,10 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/d%C3%A9couverte-dagents/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/dids/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -162,13 +262,13 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/categories/intelligence-artificielle/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/interop%C3%A9rabilit%C3%A9/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/mcp/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -181,7 +281,7 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/pki/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -194,10 +294,10 @@
                 />
   </url><url>
     <loc>https://sylorion.com/jcnm/categories/protocoles/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/categories/s%C3%A9curit%C3%A9/</loc>
-    <lastmod>2025-06-09T18:31:50+00:00</lastmod>
+    <lastmod>2025-06-08T18:31:50+00:00</lastmod>
   </url><url>
     <loc>https://sylorion.com/jcnm/tags/ai/</loc>
     <lastmod>2025-05-17T09:44:22+02:00</lastmod>

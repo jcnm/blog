@@ -12,8 +12,29 @@
     <generator>Hugo -- 0.147.3</generator>
     <language>fr-FR</language>
     <copyright>JCNM 2025</copyright>
-    <lastBuildDate>Mon, 09 Jun 2025 18:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 05:25:00 +0000</lastBuildDate>
     <atom:link href="https://sylorion.com/jcnm/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps</title>
+      <link>https://sylorion.com/jcnm/categories/devops/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/categories/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Expérimentation</title>
+      <link>https://sylorion.com/jcnm/categories/exp%C3%A9rimentation/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/categories/exp%C3%A9rimentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outils De Développement</title>
+      <link>https://sylorion.com/jcnm/categories/outils-de-d%C3%A9veloppement/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/categories/outils-de-d%C3%A9veloppement/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Déploiement</title>
       <link>https://sylorion.com/jcnm/categories/d%C3%A9ploiement/</link>
@@ -31,21 +52,21 @@
     <item>
       <title>Intelligence Artificielle</title>
       <link>https://sylorion.com/jcnm/categories/intelligence-artificielle/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/categories/intelligence-artificielle/</guid>
       <description></description>
     </item>
     <item>
       <title>Protocoles</title>
       <link>https://sylorion.com/jcnm/categories/protocoles/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/categories/protocoles/</guid>
       <description></description>
     </item>
     <item>
       <title>Sécurité</title>
       <link>https://sylorion.com/jcnm/categories/s%C3%A9curit%C3%A9/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/categories/s%C3%A9curit%C3%A9/</guid>
       <description></description>
     </item>

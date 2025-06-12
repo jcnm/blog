@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOps on JCNM</title>
+    <link>https://sylorion.com/jcnm/categories/devops/</link>
+    <description>Recent content in DevOps on JCNM</description>
+    <image>
+      <title>JCNM</title>
+      <url>https://sylorion.com/jcnm/images/profile.png</url>
+      <link>https://sylorion.com/jcnm/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>fr-FR</language>
+    <copyright>JCNM 2025</copyright>
+    <lastBuildDate>Wed, 11 Jun 2025 05:25:00 +0000</lastBuildDate>
+    <atom:link href="https://sylorion.com/jcnm/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment nous avons expérimenté le framework Container d&#39;Apple</title>
+      <link>https://sylorion.com/jcnm/posts/apple-container-framework-tests-et-retours/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/posts/apple-container-framework-tests-et-retours/</guid>
+      <description>Découvrez notre première expérience avec le framework Container d&amp;#39;Apple, une solution native de conteneurisation optimisée pour macOS et Apple Silicon, annoncée il y a seulement quelques jours.</description>
+    </item>
+  </channel>
+</rss>

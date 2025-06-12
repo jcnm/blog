@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.147.3</generator>
     <language>fr-FR</language>
     <copyright>JCNM 2025</copyright>
-    <lastBuildDate>Mon, 09 Jun 2025 18:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 18:31:50 +0000</lastBuildDate>
     <atom:link href="https://sylorion.com/jcnm/tags/dids/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agent Name Service (ANS) : Un protocole universel pour la découverte sécurisée d&#39;agents IA</title>
       <link>https://sylorion.com/jcnm/posts/vue-ensemble-et-fondamentaux-du-protocole-agent-name-service/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/posts/vue-ensemble-et-fondamentaux-du-protocole-agent-name-service/</guid>
       <description>Une analyse approfondie du protocole Agent Name Service (ANS), un standard émergent pour la découverte, l&amp;#39;identification et la communication sécurisée entre agents IA autonomes, avec comparaison détaillée aux autres systèmes de découverte.</description>
     </item>

@@ -12,8 +12,50 @@
     <generator>Hugo -- 0.147.3</generator>
     <language>fr-FR</language>
     <copyright>JCNM 2025</copyright>
-    <lastBuildDate>Mon, 09 Jun 2025 18:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 05:25:00 +0000</lastBuildDate>
     <atom:link href="https://sylorion.com/jcnm/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple</title>
+      <link>https://sylorion.com/jcnm/tags/apple/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/apple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple Silicon</title>
+      <link>https://sylorion.com/jcnm/tags/apple-silicon/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/apple-silicon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conteneurisation</title>
+      <link>https://sylorion.com/jcnm/tags/conteneurisation/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/conteneurisation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://sylorion.com/jcnm/tags/docker/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>https://sylorion.com/jcnm/tags/macos/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swift</title>
+      <link>https://sylorion.com/jcnm/tags/swift/</link>
+      <pubDate>Wed, 11 Jun 2025 05:25:00 +0000</pubDate>
+      <guid>https://sylorion.com/jcnm/tags/swift/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Automatisation</title>
       <link>https://sylorion.com/jcnm/tags/automatisation/</link>
@@ -80,63 +122,63 @@
     <item>
       <title>A2A</title>
       <link>https://sylorion.com/jcnm/tags/a2a/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/a2a/</guid>
       <description></description>
     </item>
     <item>
       <title>Agent Name Service</title>
       <link>https://sylorion.com/jcnm/tags/agent-name-service/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/agent-name-service/</guid>
       <description></description>
     </item>
     <item>
       <title>Agents IA</title>
       <link>https://sylorion.com/jcnm/tags/agents-ia/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/agents-ia/</guid>
       <description></description>
     </item>
     <item>
       <title>ANS</title>
       <link>https://sylorion.com/jcnm/tags/ans/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/ans/</guid>
       <description></description>
     </item>
     <item>
       <title>Découverte D&#39;agents</title>
       <link>https://sylorion.com/jcnm/tags/d%C3%A9couverte-dagents/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/d%C3%A9couverte-dagents/</guid>
       <description></description>
     </item>
     <item>
       <title>DIDs</title>
       <link>https://sylorion.com/jcnm/tags/dids/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/dids/</guid>
       <description></description>
     </item>
     <item>
       <title>Interopérabilité</title>
       <link>https://sylorion.com/jcnm/tags/interop%C3%A9rabilit%C3%A9/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/interop%C3%A9rabilit%C3%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>MCP</title>
       <link>https://sylorion.com/jcnm/tags/mcp/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/mcp/</guid>
       <description></description>
     </item>
     <item>
       <title>PKI</title>
       <link>https://sylorion.com/jcnm/tags/pki/</link>
-      <pubDate>Mon, 09 Jun 2025 18:31:50 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2025 18:31:50 +0000</pubDate>
       <guid>https://sylorion.com/jcnm/tags/pki/</guid>
       <description></description>
     </item>

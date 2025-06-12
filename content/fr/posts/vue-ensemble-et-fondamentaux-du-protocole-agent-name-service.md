@@ -1,6 +1,6 @@
 ---
 title: "Agent Name Service (ANS) : Un protocole universel pour la découverte sécurisée d'agents IA"
-date: 2025-06-09T18:31:50+00:00
+date: 2025-06-08T18:31:50+00:00
 draft: false
 categories: ["Intelligence Artificielle", "Protocoles", "Sécurité"]
 tags: ["ANS", "Agent Name Service", "Agents IA", "Découverte d'agents", "Interopérabilité", "DIDs", "MCP", "A2A", "PKI"]
